@@ -1,7 +1,7 @@
 - Hi, I’m Haochen Yang @Harry-Yang0518.
 - I’m interested in Computer Vision, road cycling, playing Hearthstone, etc.
 - I’m currently a sophomore majoring in Computer Science and mathematics at NYU Shanghai.
-- I’m working on Source-free Domain Adaptation
+- I’m currently working on Source-free Domain Adaptation tasks in the computer vision field.
 - You may reach me via email hy2611@nyu.edu.
 
 <!---
